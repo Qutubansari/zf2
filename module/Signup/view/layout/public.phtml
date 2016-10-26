@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Dashboard</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet"
+	href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script
+	src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script
+	src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+</head>
+<body>
+
+	<nav class="navbar navbar-inverse">
+		<div class="container-fluid">
+			<div class="navbar-header">
+				<a class="navbar-brand" href="#"></a>
+			</div>
+			<ul class="nav navbar-nav">
+				<li class="active"><a href="#">Home</a></li>
+				<li class="active"><a href="register">Signup</a></li>
+				
+
+
+
+				<!--  <li><a href="#">Page </a></li>-->
+			</ul>
+			<ul class="nav navbar-nav navbar-right">
+				<li><a href="#"><span class="glyphicon glyphicon-user"></span> <?php echo $this->name;?></a></li>
+				<li><a href="logout"><span class="glyphicon glyphicon-log-in"></span>
+						Logout</a></li>
+			</ul>
+		</div>
+	</nav>
+
+
+	<div
+		style="height: 700px; background-color: maroon;; float: left; width: 100px">
+		<ul class="nav navbar-nav">
+			<li class="active"><a href="<?php echo $this->url('add') ?>"><?php echo $this->translate('Add Menu') ?></a></li>
+			<br>
+			<li class="active"><a href="<?php echo $this->url('list') ?>"><?php echo $this->translate('List Menu') ?></a></li>
+			<br>
+			<li class="active"><a href="<?php echo $this->url('addRole') ?>"><?php echo $this->translate('Add Role') ?></a></li>
+            <br>
+			<li class="active"><a href="<?php echo $this->url('listRole') ?>"><?php echo $this->translate('List Role') ?></a></li>            
+			            <br>
+			<li class="active"><a href="<?php echo $this->url('addUserRole') ?>"><?php echo $this->translate('Assign Role') ?></a></li>   
+            <br>
+            <li class="active"><a href="<?php echo $this->url('addRoleMenu') ?>"><?php echo $this->translate('Assign Role to Menu') ?></a></li>   
+                       
+                       
+                        <?php
+                        $i = 0;
+                        
+                        foreach ($this->menu as $val) {
+                            
+                            if (count($val) < 2) {
+                                echo '<li> <a href="" >' . $val['name'] . '</a></li>';
+                            } 
+
+                            else {
+                                echo "<li>";
+                                foreach ($val as $key => $value) { 
+                                    
+                                    if ($key == 'name' && $key != "0") {
+                                        echo "<br>";
+                                        echo '<a href="javascript:;" data-toggle="collapse" data-target="#' . $value . '"><i class="fa fa-fw fa-arrows-v"></i>' . $value . '<i class="fa fa-fw fa-caret-down"></i></a>';
+                                        echo ' <ul id="' . $value . '" class="collapse">';
+                                    } else {
+                                        echo "<br>";
+                                        echo ' <li><a href="">' . $value . '</a> </li>';
+                                    }
+                                }
+                                
+                                echo "</ul></li>";
+                            }
+                        }
+                        
+                        ?>
+                    
+                    </ul>
+
+
+
+
+	</div>
+
+
+	<!-- Menu toggle script -->
+	<script>
+        $("#menu-toggle").click( function (e){
+            e.preventDefault();
+            $("#wrapper").toggleClass("menuDisplayed");
+        });
+    </script>
+
+
+	<div class="container">
+<?php echo $this->content; ?>
+
+</div>
+
+</body>
+</html>

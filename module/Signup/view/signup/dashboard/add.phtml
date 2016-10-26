@@ -1,0 +1,9 @@
+<?php
+echo $this->form()->openTag($this->form);
+echo $this->formRow($this->form->get('name')) . "<br>";
+echo $this->formRow($this->form->get('route')) . "<br>";
+echo $this->formRow($this->form->get('parent')) . "<br>";
+echo $this->formSubmit($this->form->get('submit'));
+echo $this->form()->closeTag();
+
+?>

@@ -1,0 +1,23 @@
+
+<center>
+<?php
+$this->form->prepare();
+
+echo $this->form()->openTag($this->form);
+echo $this->formRow($this->form->get('user'));
+echo "<br>";
+echo $this->formRow($this->form->get('role'));
+echo "<br>";
+echo $this->formSubmit($this->form->get('submit'));
+
+// $form->setAttribute('action', $this->url('Login', array('action' => 'add')));
+
+echo $this->form()->closeTag();
+
+
+if($this->msg)
+{
+    echo "<h4 align=center> $this->msg </h4>";
+}
+?>
+</center>s

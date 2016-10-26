@@ -1,0 +1,22 @@
+<?php
+echo $this->headTitle('signup form');
+
+$this->form->prepare();
+echo $this->form()->openTag($this->form);
+
+echo $this->formRow($this->form->get('username'));
+echo "<br>";
+echo $this->formRow($this->form->get('email'));
+echo "<br>";
+echo $this->formRow($this->form->get('display_name'));
+echo "<br>";
+echo $this->formRow($this->form->get('password'));
+echo "<br>";
+
+
+
+echo $this->formSubmit($this->form->get('submit'));
+
+echo $this->form()->closeTag();
+
+?>

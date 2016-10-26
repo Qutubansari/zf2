@@ -1,0 +1,15 @@
+<center>
+<?php
+
+echo "<table border='2px solid black'>";
+echo "<tr> <th>ID</th> <th>NAME</th> <th>PARENT</th> <th>ROUTE</th></tr>";
+foreach ($this->data as $record) {
+    echo "<tr><td>";
+    echo $record->menu_id . "</td>";
+    echo "<td>" . $record->name . "</td>";
+    echo "<td>" . $record->parent . "</td>";
+    echo "<td>" . $record->route . "</td></tr>";
+}
+echo "</table>";
+?>
+</center>

@@ -1,0 +1,25 @@
+<center>
+<?php
+
+echo "<table border='2px solid black'>";
+echo "<tr> <th>ID</th> <th>ROLE</th></tr>";
+foreach ($this->paginator as $record) {
+    echo "<tr><td>";
+    echo $record->id . "</td>";
+    echo "<td>" . $record->role . "</td>";
+  
+}
+echo "</table>";
+
+echo $this->paginationControl(
+     // the paginator object
+     $this->paginator,
+     // the scrolling style
+     'sliding',
+     // the partial to use to render the control
+     'paginator.phtml'
+     // the route to link to when a user clicks a control link
+     
+ );
+?>
+</center>

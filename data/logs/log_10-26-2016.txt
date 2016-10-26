@@ -1,0 +1,699 @@
+2016-10-26T10:10:12+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T10:10:15+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T10:10:19+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T10:14:47+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T10:14:50+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T10:20:27+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T10:20:33+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T10:26:56+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T10:27:10+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T10:27:17+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T10:27:19+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T10:27:22+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T10:27:55+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T10:27:56+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T10:28:00+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T10:28:01+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T10:28:15+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T10:29:04+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T10:29:07+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T10:30:16+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T10:30:18+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T10:30:20+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T10:30:25+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T10:30:26+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T10:33:13+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T10:33:17+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T10:36:23+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T10:36:25+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T10:36:29+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T10:37:17+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T10:37:19+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T10:37:24+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T10:37:28+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T10:38:13+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T10:38:17+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T10:43:07+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T10:43:09+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T10:43:13+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T10:53:13+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T10:53:18+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T10:55:29+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T10:55:40+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T10:56:39+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T10:59:20+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:01:29+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T11:01:32+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T11:03:05+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T11:03:26+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:04:03+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:04:13+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:05:11+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:05:13+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:08:35+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:08:36+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:08:37+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:08:54+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:08:54+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:08:57+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:08:59+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:09:01+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:09:03+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:09:05+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:10:21+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:10:23+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:10:24+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:11:03+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:11:20+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:11:20+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:11:22+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:11:25+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:11:42+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:11:42+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:15:06+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:15:06+05:30
+                    ERR (3): Undefined property: Signup\Model\Menu::$user_id in /var/www/html/ZF2-master/module/Signup/view/signup/dashboard/list.phtml line 7
+
+2016-10-26T11:15:06+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:15:06+05:30
+                    ERR (3): Undefined property: Signup\Model\Menu::$user_id in /var/www/html/ZF2-master/module/Signup/view/signup/dashboard/list.phtml line 7
+
+2016-10-26T11:15:17+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:15:17+05:30
+                    ERR (3): Undefined property: Signup\Model\Menu::$menu_id in /var/www/html/ZF2-master/module/Signup/view/signup/dashboard/list.phtml line 7
+
+2016-10-26T11:15:17+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:15:17+05:30
+                    ERR (3): Undefined property: Signup\Model\Menu::$menu_id in /var/www/html/ZF2-master/module/Signup/view/signup/dashboard/list.phtml line 7
+
+2016-10-26T11:15:18+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:15:18+05:30
+                    ERR (3): Undefined property: Signup\Model\Menu::$menu_id in /var/www/html/ZF2-master/module/Signup/view/signup/dashboard/list.phtml line 7
+
+2016-10-26T11:15:18+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:15:18+05:30
+                    ERR (3): Undefined property: Signup\Model\Menu::$menu_id in /var/www/html/ZF2-master/module/Signup/view/signup/dashboard/list.phtml line 7
+
+2016-10-26T11:16:27+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:16:28+05:30
+                    ERR (3): Undefined property: Signup\Model\Menu::$menu_id in /var/www/html/ZF2-master/module/Signup/view/signup/dashboard/list.phtml line 11
+
+2016-10-26T11:16:28+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:16:28+05:30
+                    ERR (3): Undefined property: Signup\Model\Menu::$menu_id in /var/www/html/ZF2-master/module/Signup/view/signup/dashboard/list.phtml line 11
+
+2016-10-26T11:16:37+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:16:37+05:30
+                    ERR (3): Undefined property: Signup\Model\Menu::$menu_id in /var/www/html/ZF2-master/module/Signup/src/Signup/Controller/DashboardController.php line 44
+
+2016-10-26T11:16:37+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:16:37+05:30
+                    ERR (3): Undefined property: Signup\Model\Menu::$menu_id in /var/www/html/ZF2-master/module/Signup/src/Signup/Controller/DashboardController.php line 44
+
+2016-10-26T11:16:38+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:16:38+05:30
+                    ERR (3): Undefined property: Signup\Model\Menu::$menu_id in /var/www/html/ZF2-master/module/Signup/src/Signup/Controller/DashboardController.php line 44
+
+2016-10-26T11:16:38+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:16:38+05:30
+                    ERR (3): Undefined property: Signup\Model\Menu::$menu_id in /var/www/html/ZF2-master/module/Signup/src/Signup/Controller/DashboardController.php line 44
+
+2016-10-26T11:16:38+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:16:38+05:30
+                    ERR (3): Undefined property: Signup\Model\Menu::$menu_id in /var/www/html/ZF2-master/module/Signup/src/Signup/Controller/DashboardController.php line 44
+
+2016-10-26T11:18:28+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:19:56+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:19:57+05:30
+                    ERR (3): Undefined property: Signup\Controller\DashboardController::$result in /var/www/html/ZF2-master/module/Signup/src/Signup/Controller/DashboardController.php line 41
+
+2016-10-26T11:20:14+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:20:14+05:30
+                    ERR (3): Undefined property: Signup\Controller\DashboardController::$data1 in /var/www/html/ZF2-master/module/Signup/src/Signup/Controller/DashboardController.php line 41
+
+2016-10-26T11:20:14+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:20:14+05:30
+                    ERR (3): Undefined property: Signup\Controller\DashboardController::$data1 in /var/www/html/ZF2-master/module/Signup/src/Signup/Controller/DashboardController.php line 41
+
+2016-10-26T11:20:15+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:20:15+05:30
+                    ERR (3): Undefined property: Signup\Controller\DashboardController::$data1 in /var/www/html/ZF2-master/module/Signup/src/Signup/Controller/DashboardController.php line 41
+
+2016-10-26T11:20:35+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$menuTable
+
+2016-10-26T11:25:19+05:30
+                    NOTICE (5): Undefined property: Signup\Model\Menu::$id
+
+2016-10-26T11:25:19+05:30
+                    ERR (3): Undefined property: Signup\Model\Menu::$id in /var/www/html/ZF2-master/module/Signup/view/signup/dashboard/list.phtml line 11
+
+2016-10-26T11:26:18+05:30
+                    NOTICE (5): Undefined property: Signup\Model\Menu::$id
+
+2016-10-26T11:26:18+05:30
+                    ERR (3): Undefined property: Signup\Model\Menu::$id in /var/www/html/ZF2-master/module/Signup/view/signup/dashboard/list.phtml line 8
+
+2016-10-26T11:44:55+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T11:47:22+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$roleTable
+
+2016-10-26T11:47:57+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$roleTable
+
+2016-10-26T11:49:10+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$roleTable
+
+2016-10-26T11:49:12+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$roleTable
+
+2016-10-26T11:49:46+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$roleTable
+
+2016-10-26T11:49:47+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$roleTable
+
+2016-10-26T11:49:50+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$roleTable
+
+2016-10-26T11:49:54+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$roleTable
+
+2016-10-26T11:55:11+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$roleTable
+
+2016-10-26T13:43:49+05:30
+                    ERR (3): Route with name "userRole" not found
+
+2016-10-26T13:43:54+05:30
+                    ERR (3): Route with name "userRole" not found
+
+2016-10-26T13:44:00+05:30
+                    ERR (3): Route with name "userRole" not found
+
+2016-10-26T13:44:26+05:30
+                    ERR (3): Route with name "userRole" not found
+
+2016-10-26T13:44:27+05:30
+                    ERR (3): Route with name "userRole" not found
+
+2016-10-26T13:44:34+05:30
+                    ERR (3): Route with name "userRole" not found
+
+2016-10-26T13:44:36+05:30
+                    ERR (3): Route with name "userRole" not found
+
+2016-10-26T13:44:36+05:30
+                    ERR (3): Route with name "userRole" not found
+
+2016-10-26T13:44:37+05:30
+                    ERR (3): Route with name "userRole" not found
+
+2016-10-26T13:44:37+05:30
+                    ERR (3): Route with name "userRole" not found
+
+2016-10-26T13:44:38+05:30
+                    ERR (3): Route with name "userRole" not found
+
+2016-10-26T13:44:43+05:30
+                    ERR (3): Route with name "userRole" not found
+
+2016-10-26T13:45:00+05:30
+                    ERR (3): Route with name "userRole" not found
+
+2016-10-26T13:45:10+05:30
+                    ERR (3): Route with name "userRole" not found
+
+2016-10-26T13:45:16+05:30
+                    ERR (3): Route with name "userRole" not found
+
+2016-10-26T13:45:29+05:30
+                    ERR (3): Route with name "userRole" not found
+
+2016-10-26T13:45:33+05:30
+                    ERR (3): Route with name "userRole" not found
+
+2016-10-26T13:46:09+05:30
+                    ERR (3): Route with name "userRole" not found
+
+2016-10-26T13:46:10+05:30
+                    ERR (3): Route with name "userRole" not found
+
+2016-10-26T13:46:11+05:30
+                    ERR (3): Route with name "userRole" not found
+
+2016-10-26T13:46:37+05:30
+                    ERR (3): Route with name "userRole" not found
+
+2016-10-26T13:46:45+05:30
+                    ERR (3): Route with name "userRole" not found
+
+2016-10-26T13:47:45+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$roleTable
+
+2016-10-26T13:47:53+05:30
+                    ERR (3): Argument 1 passed to Signup\Model\MenuTable::enterDetails() must be an instance of Signup\Model\Menu, instance of Signup\Model\Role given, called in /var/www/html/ZF2-master/module/Signup/src/Signup/Controller/DashboardController.php on line 158 and defined
+
+2016-10-26T13:47:53+05:30
+                    ERR (3): Undefined property: Signup\Model\Role::$parent in /var/www/html/ZF2-master/module/Signup/src/Signup/Model/MenuTable.php line 23
+
+2016-10-26T13:50:12+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$roleTable
+
+2016-10-26T13:50:12+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$roleTable
+
+2016-10-26T13:50:17+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$roleTable
+
+2016-10-26T13:52:04+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$signupTable
+
+2016-10-26T13:52:04+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T13:52:04+05:30
+                    ERR (3): Undefined property: Signup\Model\Signup::$user_id in /var/www/html/ZF2-master/module/Signup/src/Signup/Controller/DashboardController.php line 187
+
+2016-10-26T13:53:33+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$signupTable
+
+2016-10-26T13:53:33+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T13:53:33+05:30
+                    ERR (3): Undefined property: Signup\Model\Signup::$user_id in /var/www/html/ZF2-master/module/Signup/src/Signup/Controller/DashboardController.php line 187
+
+2016-10-26T13:54:33+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$signupTable
+
+2016-10-26T13:54:33+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T14:01:05+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$signupTable
+
+2016-10-26T14:01:05+05:30
+                    ERR (3): Undefined property: Signup\Controller\DashboardController::$roleTable in /var/www/html/ZF2-master/module/Signup/src/Signup/Controller/DashboardController.php line 234
+
+2016-10-26T14:02:36+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$signupTable
+
+2016-10-26T14:02:36+05:30
+                    ERR (3): Undefined property: Signup\Controller\DashboardController::$roleTable in /var/www/html/ZF2-master/module/Signup/src/Signup/Controller/DashboardController.php line 234
+
+2016-10-26T14:03:53+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$signupTable
+
+2016-10-26T14:03:53+05:30
+                    ERR (3): Undefined property: Signup\Controller\DashboardController::$roleTable in /var/www/html/ZF2-master/module/Signup/src/Signup/Controller/DashboardController.php line 234
+
+2016-10-26T14:04:17+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$signupTable
+
+2016-10-26T14:04:17+05:30
+                    ERR (3): Undefined property: Signup\Controller\DashboardController::$roleTable in /var/www/html/ZF2-master/module/Signup/src/Signup/Controller/DashboardController.php line 234
+
+2016-10-26T14:04:25+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$signupTable
+
+2016-10-26T14:04:25+05:30
+                    ERR (3): Undefined property: Signup\Controller\DashboardController::$roleTable in /var/www/html/ZF2-master/module/Signup/src/Signup/Controller/DashboardController.php line 234
+
+2016-10-26T14:04:28+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$signupTable
+
+2016-10-26T14:04:28+05:30
+                    ERR (3): Undefined property: Signup\Controller\DashboardController::$roleTable in /var/www/html/ZF2-master/module/Signup/src/Signup/Controller/DashboardController.php line 234
+
+2016-10-26T14:05:19+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$signupTable
+
+2016-10-26T14:05:19+05:30
+                    ERR (3): Undefined property: Signup\Controller\DashboardController::$roleTable in /var/www/html/ZF2-master/module/Signup/src/Signup/Controller/DashboardController.php line 234
+
+2016-10-26T14:05:56+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$signupTable
+
+2016-10-26T14:06:11+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$signupTable
+
+2016-10-26T14:07:39+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$signupTable
+
+2016-10-26T14:07:43+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$signupTable
+
+2016-10-26T14:08:01+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$signupTable
+
+2016-10-26T14:08:14+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$signupTable
+
+2016-10-26T14:08:17+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$signupTable
+
+2016-10-26T14:09:04+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$signupTable
+
+2016-10-26T14:09:59+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$signupTable
+
+2016-10-26T14:10:22+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$signupTable
+
+2016-10-26T14:10:32+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$signupTable
+
+2016-10-26T14:10:37+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$signupTable
+
+2016-10-26T14:10:51+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$signupTable
+
+2016-10-26T14:10:56+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$signupTable
+
+2016-10-26T14:26:04+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$signupTable
+
+2016-10-26T14:28:55+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$signupTable
+
+2016-10-26T14:29:03+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$signupTable
+
+2016-10-26T14:29:19+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$signupTable
+
+2016-10-26T14:29:20+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$signupTable
+
+2016-10-26T14:29:21+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$signupTable
+
+2016-10-26T14:29:22+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$signupTable
+
+2016-10-26T14:29:31+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$signupTable
+
+2016-10-26T15:33:27+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T15:33:51+05:30
+                    ERR (3): Argument 1 passed to Signup\Model\RoleTable::__construct() must be an instance of Zend\Db\TableGateway\TableGateway, none given, called in /var/www/html/ZF2-master/module/Signup/src/Signup/Model/RoleTable.php on line 66 and defined
+
+2016-10-26T15:33:51+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T15:33:51+05:30
+                    ERR (3): Undefined variable: tableGateway in /var/www/html/ZF2-master/module/Signup/src/Signup/Model/RoleTable.php line 18
+
+2016-10-26T15:34:13+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T15:35:55+05:30
+                    ERR (3): syntax error, unexpected ')' in /var/www/html/ZF2-master/module/Signup/view/signup/dashboard/list-role.phtml line 23
+
+2016-10-26T17:16:44+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T17:17:05+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$signupTable
+
+2016-10-26T17:55:40+05:30
+                    ERR (3): Route with name "addRoleMenu" not found
+
+2016-10-26T17:55:44+05:30
+                    ERR (3): Route with name "addRoleMenu" not found
+
+2016-10-26T17:56:31+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T17:56:40+05:30
+                    NOTICE (5): Undefined property: Signup\Controller\DashboardController::$signupTable
+
+2016-10-26T17:56:42+05:30
+                    ERR (3): Call to undefined method Signup\Model\MenuTable::fetchAll() in /var/www/html/ZF2-master/module/Signup/src/Signup/Controller/DashboardController.php line 260
+
+2016-10-26T17:57:39+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T17:58:00+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T17:58:02+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T17:59:16+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T18:14:10+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T18:15:56+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T18:15:59+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T18:19:17+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T18:27:13+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T18:27:15+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T18:39:24+05:30
+                    ERR (3): Class 'Signup\Controller\RoleMenu' not found in /var/www/html/ZF2-master/module/Signup/src/Signup/Controller/DashboardController.php line 279
+
+2016-10-26T18:44:01+05:30
+                    NOTICE (5): Undefined property: Signup\Model\RoleMenu::$menu
+
+2016-10-26T18:44:14+05:30
+                    NOTICE (5): Undefined property: Signup\Model\RoleMenu::$role
+
+2016-10-26T18:44:24+05:30
+                    NOTICE (5): Undefined property: Signup\Model\RoleMenu::$role
+
+2016-10-26T18:44:34+05:30
+                    NOTICE (5): Undefined property: Signup\Model\RoleMenu::$menu
+
+2016-10-26T18:45:57+05:30
+                    NOTICE (5): Undefined property: Signup\Model\RoleMenu::$menu
+
+2016-10-26T18:49:28+05:30
+                    NOTICE (5): Undefined property: Signup\Model\RoleMenu::$role
+
+2016-10-26T18:49:28+05:30
+                    ERR (3): Undefined property: Signup\Model\RoleMenu::$role in /var/www/html/ZF2-master/module/Signup/src/Signup/Model/RoleMenuTable.php line 29
+
+2016-10-26T18:49:53+05:30
+                    NOTICE (5): Undefined property: Signup\Model\RoleMenu::$role
+
+2016-10-26T18:49:53+05:30
+                    ERR (3): Undefined property: Signup\Model\RoleMenu::$role in /var/www/html/ZF2-master/module/Signup/src/Signup/Model/RoleMenuTable.php line 29
+
+2016-10-26T18:50:54+05:30
+                    NOTICE (5): Undefined property: Signup\Model\RoleMenu::$role
+
+2016-10-26T18:50:54+05:30
+                    ERR (3): Undefined property: Signup\Model\RoleMenu::$menu in /var/www/html/ZF2-master/module/Signup/src/Signup/Model/RoleMenuTable.php line 29
+
+2016-10-26T18:53:33+05:30
+                    NOTICE (5): Undefined property: Signup\Model\RoleMenu::$role
+
+2016-10-26T18:53:33+05:30
+                    ERR (3): Undefined property: Signup\Model\RoleMenu::$menu in /var/www/html/ZF2-master/module/Signup/src/Signup/Model/RoleMenuTable.php line 29
+
+2016-10-26T18:53:43+05:30
+                    NOTICE (5): Undefined property: Signup\Model\RoleMenu::$role
+
+2016-10-26T18:53:43+05:30
+                    ERR (3): Undefined property: Signup\Model\RoleMenu::$menu in /var/www/html/ZF2-master/module/Signup/src/Signup/Model/RoleMenuTable.php line 29
+
